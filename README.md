@@ -1,13 +1,13 @@
-# GoogleMeetMuter
+# MeetMuter
 
-GoogleMeetMuter is a web extension that mutes your microphone on google meet when you switch tabs.
+MeetMuter is a web extension that mutes your microphone on google meet when you switch tabs.
 
 
 ## Installation
 
-[![image](https://user-images.githubusercontent.com/60603110/141964928-73c99499-c92b-4b34-a599-77227aecc50b.png)](https://addons.mozilla.org/en-US/firefox/addon/googlemeetmuter/) 
+[![image](https://user-images.githubusercontent.com/60603110/141964928-73c99499-c92b-4b34-a599-77227aecc50b.png)](https://addons.mozilla.org/en-US/firefox/addon/meetmuter/) 
 
-[![image](https://user-images.githubusercontent.com/60603110/141965305-632e818a-587e-43db-9cc2-fc32ef6e136a.png)](https://github.com/daggy1234/google-meet-muter)
+[![image](https://user-images.githubusercontent.com/60603110/141965305-632e818a-587e-43db-9cc2-fc32ef6e136a.png)](https://github.com/daggy1234/meet-muter)
 
 
 ## Demo

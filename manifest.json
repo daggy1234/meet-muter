@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "GoogleMeetMuter",
+  "name": "MeetMuter",
   "version": "1.0.0",
-  "description": "GoogleMeetMuter is a web extension that mutes your microphone on google meet when you switch tabs.",
+  "description": "MeetMuter is a web extension that mutes your microphone on google meet when you switch tabs.",
   "homepage_url": "https://github.com/daggy1234/google-meet-muter",
   "icons": {
     "16": "icons/16.png",
